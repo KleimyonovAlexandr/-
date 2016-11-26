@@ -11,8 +11,9 @@
     <form id="form1" runat="server">
     <div>
         <asp:Label ID="Label1" runat="server" Text="Hello World ! "></asp:Label>  
-	<asp:Label ID="Label2" runat="server" Text="*************** "></asp:Label> 
+	    <asp:Label ID="Label2" runat="server" Text="*************** "></asp:Label> 
     </div>
+        <asp:Image ID="Image1" runat="server" Height="198px" Width="326px" />
     </form>
 </body>
 </html>

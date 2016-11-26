@@ -1,0 +1,6 @@
+C:\New_Test_Proj\-\TestWebProj\TestWebProj\bin\TestWebProj.dll.config
+C:\New_Test_Proj\-\TestWebProj\TestWebProj\bin\TestWebProj.dll
+C:\New_Test_Proj\-\TestWebProj\TestWebProj\bin\TestWebProj.pdb
+C:\New_Test_Proj\-\TestWebProj\TestWebProj\obj\Debug\TestWebProj.csprojResolveAssemblyReference.cache
+C:\New_Test_Proj\-\TestWebProj\TestWebProj\obj\Debug\TestWebProj.dll
+C:\New_Test_Proj\-\TestWebProj\TestWebProj\obj\Debug\TestWebProj.pdb

@@ -11,7 +11,10 @@ namespace TestWebProj
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Image1.ImageUrl = "~/res/git.png";
         }
+
+
+
     }
 }
