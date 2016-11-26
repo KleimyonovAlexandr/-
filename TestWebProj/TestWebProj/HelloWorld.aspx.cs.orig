@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace TestWebProj
+{
+    public partial class HelloWorld : System.Web.UI.Page
+    {
+<<<<<<< HEAD
+//ssdfdsfsdfsdfdsfdsfsdf
+=======
+//sssssss
+>>>>>>> d71e6d3b67917affce70156185b4cb697dd40c03
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            Image1.ImageUrl = "~/res/git.png";
+        }
+
+
+
+    }
+}
